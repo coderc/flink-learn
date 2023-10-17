@@ -1,0 +1,5 @@
+version: v1
+topic:
+  name: my-topic
+bootstrap_servers:
+  - localhost:9093
